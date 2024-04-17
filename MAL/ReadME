@@ -1,0 +1,3 @@
+In this project, we compare the list of animes(from My Anime List) in which two voice actor appeared together.
+We use the cfg.json to store the ids of the the voice actors we want to compare as My Anime List 
+needs the id in the url to access their pages. 
